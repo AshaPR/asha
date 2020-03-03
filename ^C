@@ -1,0 +1,13 @@
+ftp> ftp> ^C
+?Invalid command
+ftp> ftp> ^Z
+?Invalid command
+ftp> [1]+  Stopped                 ftp
+?Invalid command
+ftp> student@Lab3N15:~/s4cse/asha$ ssh 192.168.51.43
+?Invalid command
+ftp> ssh: connect to host 192.168.51.43 port 22: No route to host
+?Invalid command
+ftp> student@Lab3N15:~/s4cse/asha$ 
+?Invalid command
+ftp> ^Z
